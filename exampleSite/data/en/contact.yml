@@ -10,10 +10,8 @@ contact:
     info: happystrasse 11, 1111 happyhausen
   - icon: ti-mobile
     info: 'telefon: +41 79 111 11 11'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: happy@hoof.ch'
   contact_form:
     enable: true
     form_action: "#"
