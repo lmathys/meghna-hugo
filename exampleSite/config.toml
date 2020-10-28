@@ -70,7 +70,7 @@ enable = false
 expire_days = 2
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+gmap_api = "https://www.google.ch/maps/place/Walkringen/@46.9592036,7.6085325,14z/data=!3m1!4b1!4m5!3m4!1s0x478e349e129be25f:0x6923b7e800fcc3c2!8m2!3d46.9479693!4d7.620415"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
@@ -102,20 +102,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
+icon = "Instagram"
+link = ""
 [[params.social]]
 icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
 link = "#"
