@@ -1,8 +1,8 @@
 ---
 contact:
   enable: true
-  title: kontaktiere mich
-  subtitle: kontakt
+  title: Kontaktiere mich
+  subtitle: Kontakt
   content: Gerne stehe ich dir für Fragen zu Verfügung. Melde dich, wenn du Ideen
     hast oder mich bei meinem Vorhaben unterstützen möchtest
   contact_list:
@@ -15,8 +15,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: dein name
-    email: deine email
-    subject: titel
-    message: nachricht
-    submit: senden
+    name: dein Name
+    email: deine Email
+    subject: Titel
+    message: Nachricht
+    submit: Senden
