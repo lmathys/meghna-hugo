@@ -11,7 +11,7 @@ contact:
   - icon: ti-mobile
     info: 'telefon: +41 79 111 11 11'
   - icon: ti-email
-    info: 'Email: happy@hoof.ch'
+    info: 'email: happy@hoof.ch'
   contact_form:
     enable: true
     form_action: "#"
