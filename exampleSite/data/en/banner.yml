@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: images/backgrounds/banner.png
+  bg_image: images/backgrounds/images/banner.png
   icon: ''
   title: happyhoof
   content: "“es ist zeit, unsere power zu bündeln und gemeinsam die welt zu erschaffen,
