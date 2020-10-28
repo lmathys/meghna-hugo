@@ -1,5 +1,5 @@
 baseURL = "https://happy-test.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -69,7 +69,7 @@ post_share = true
 enable = false
 expire_days = 2
 [params.map]
-enable = false
+enable = true
 gmap_api = "https://www.google.ch/maps/place/Walkringen/@46.9592036,7.6085325,14z/data=!3m1!4b1!4m5!3m4!1s0x478e349e129be25f:0x6923b7e800fcc3c2!8m2!3d46.9479693!4d7.620415"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
