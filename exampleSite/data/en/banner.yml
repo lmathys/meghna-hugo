@@ -5,9 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: happyhoof
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: "“Es ist Zeit, unsere Power zu bündeln und gemeinsam die Welt zu erschaffen,
+    die wir uns wünschen.”"
   button:
     enable: true
     label: über mich
-    link: "#instagram"
+    link: https://happy-test.netlify.app/#contact
