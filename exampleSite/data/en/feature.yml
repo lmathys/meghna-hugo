@@ -7,11 +7,11 @@ feature:
   content: 'wir bieten dir: Auszeit, Freude, Freundschaft und ganz viel Liebe'
   feature_item:
   - title: Scheune zum Mieten
-    icon: ti-world
+    icon: ti-house
     content: buche unsere Scheune und gestalte mit mir dein individuelles Fest
-  - title: Brunch
+  - title: Brunch & Yoga
     icon: ti-panel
-    content: Sonntagsbrunch mit Besuch unserer Mitbewohner
+    content: Sonntagsbrunch & Yoga
   - title: Helfertage
     icon: ti-stats-up
     content: Ich freue mich auf jede Unterstützung, um den HappyHoof auf Vordermann
