@@ -6,13 +6,9 @@ feature:
   title: Unser Hof
   content: 'wir bieten dir: Auszeit, Freude, Freundschaft und ganz viel Liebe'
   feature_item:
-  - title: ''
-    icon: ''
-    content: ''
-  - title: SEO Optimized
+  - title: Scheune zum Mieten
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: buche unsere Scheune und gestalte mit mir dein individuelles Fest
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
