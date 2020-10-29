@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/holz.jpg
-  bg_image_webp: "/images/holz.jpg"
+  bg_image: images/holz.jpg
+  bg_image_webp: "/backgrounds/images/holz.jpg"
   title: Schön, dass es dich gibt!
   content: ''
   button:
