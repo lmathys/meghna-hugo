@@ -19,26 +19,10 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-name = "blog"
+[menu.main]
+name = "kontakt"
 pre = "#"
-url = "blog"
-weight = 4
-[[menu.main]]
-name = "preise"
-pre = "#"
-url = "preise"
-weight = 3
-[[menu.main]]
-name = "über mich"
-pre = "#"
-url = "über mich"
-weight = 2
-[[menu.main]]
-name = "angebot"
-pre = "#"
-url = "angebot"
-weight = 1
+weight = 5
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
